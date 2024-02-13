@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="200dp"
+    android:background="@drawable/wallpaper_nav_header">
+
+
+    <TextView
+        android:id="@+id/user_logged_nav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="40dp"
+        android:text="USERNAME"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="35sp" />
+
+
+</FrameLayout>

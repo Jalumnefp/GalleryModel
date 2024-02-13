@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GalleryModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gallery_item">Galería</string>
+    <string name="navigation_drawer_open">ABRIR</string>
+    <string name="navigation_drawer_close">CERRAR</string>
+    <string name="settings_item">Ajustes</string>
+    <string name="logoff_item">Cerrar sesión</string>
+    <string name="add_work">Añadir obra de arte</string>
+    <string name="title">Título</string>
+    <string name="author">Autor</string>
+    <string name="select_image">Selecciona imagen</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="repeat_password">Repetir contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="new_here">Nuevo aquí?</string>
+    <string name="sign_up">Inscríbete</string>
+    <string name="presentation">Bienvenido a la mejor galería de arte en android!</string>
+    <string name="register">Registrar</string>
+    <string name="select_language">Selecciona idioma:</string>
+    <string name="night_mode">Modo noche:</string>
+    <string name="home_item">Casa?</string>
+    <string name="registration_successfull">Registro correcto</string>
+    <string name="close_session">Cerrar sesión</string>
+    <string name="close_session_upper">CERRAR SESIÓN</string>
+    <string name="create">CREAR</string>
+    <string name="logof_msg">Comprobación de la determinación del usuario a abandonar la sesión</string>
+    <string name="cancel">CANCELAR</string>
+    <string-array name="chat_colors">
+        <item>Verde</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+        <item>Amarillo</item>
+        <item>Morado</item>
+        <item>Blanco</item>
+    </string-array>
+</resources>

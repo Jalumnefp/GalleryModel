@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">GalleryModel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gallery_item">Gallery</string>
+    <string name="navigation_drawer_open">OPEN</string>
+    <string name="navigation_drawer_close">CLOSE</string>
+    <string name="settings_item">Settings</string>
+    <string name="logoff_item">Log off</string>
+    <string name="add_work">Add art work</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="select_image">Select image</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="login">Login</string>
+    <string name="new_here">New here?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="presentation">Welcome to the best android art gallery!</string>
+    <string name="register">Register</string>
+    <string name="select_language">Select language:</string>
+    <string name="night_mode">Night mode:</string>
+    <string name="home_item">Home</string>
+    <string name="registration_successfull">Registration successful</string>
+    <string name="close_session">Close session</string>
+    <string name="close_session_upper">CLOSE SESSION</string>
+    <string name="create">CREATE</string>
+
+    <string name="logof_msg">Verification of the user\'s determination to leave the session</string>
+    <string name="cancel">CANCEL</string>
+    <string-array name="chat_colors">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Purple</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="chat_color_values">
+        <item>#4CAF50</item>
+        <item>#FF0000</item>
+        <item>#03A9F4</item>
+        <item>#FFEB3B</item>
+        <item>#673AB7</item>
+        <item>#FFFFFF</item>
+    </string-array>
+</resources>

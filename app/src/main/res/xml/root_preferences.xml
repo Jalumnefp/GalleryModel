@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andoird="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Char Category">
+
+        <EditTextPreference
+            android:key="CHAT_USERNAME"
+            android:title="Username" />
+
+        <ListPreference
+            android:key="CHAT_COLOR"
+            android:title="Background color"
+            andoird:entries="@array/chat_colors"
+            andoird:entryValues="@array/chat_color_values"
+            andoird:defaultValue="@color/card_background_2"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Cache Category">
+
+        <SwitchPreferenceCompat
+            android:key="OFFLINE_MODE"
+            android:title="Offline mode" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="General Category">
+
+        <CheckBoxPreference
+            android:key="GENERAL_VIBRATION"
+            android:title="Vibration" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
